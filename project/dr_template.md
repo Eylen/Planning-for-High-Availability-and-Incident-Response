@@ -11,8 +11,8 @@ zone 1 availabilty zones:
 
 zone 2: us-west-1
 zone 2 availability zones:
-- us-west-1a
 - us-west-1b
+- us-west-1c
 ## Servers and Clusters
 
 ### Table 1.1 Summary
